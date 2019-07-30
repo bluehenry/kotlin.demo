@@ -84,4 +84,8 @@ fun max(a: Int, b: Int): Int = if(a>b) a else b
 
 ## Calling from Java
 =======
+<<<<<<< HEAD
 # kotlin.demo
+=======
+# kotlin.demo
+>>>>>>> 4ab3d12e16ad85130c6068af6743afa8632fa815
