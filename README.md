@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # kotlin cheatsheet
 ## Command line
 ```
@@ -86,5 +85,3 @@ fun max(a: Int, b: Int): Int = if(a>b) a else b
 ## Calling from Java
 =======
 # kotlin.demo
-[Working with the Command Line Compiler](https://kotlinlang.org/docs/tutorials/command-line.html)
->>>>>>> 339f1e56a3a5f43e419aaa1fa601c21fb50e33ca
