@@ -1,4 +1,4 @@
-import com.henry.Person
+package helloworld
 
 fun main(args: Array<String>) {
     val henry = Person("Henry")
